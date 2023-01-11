@@ -1,0 +1,22 @@
+/* lista com map (chave, valor) *\
+Map<Integer, String> Ranking = New Map<Integer, String>(); 
+
+/*.put(adiciona em ordem de ranking) *\
+Ranking.put(5,'Bom Dia, Verônica '); 
+
+Ranking.put(6,'Uma Advogada Extraordinária '); 
+
+Ranking.put(7,'Game Of Thrones '); 
+
+Ranking.put(1,'Sintonia '); 
+
+Ranking.put(3,'Two and a Half Man '); 
+
+Ranking.put(8,'Suits '); 
+
+Ranking.put(2,'The Good Doctor '); 
+
+Ranking.put(4,'Stranger Things '); 
+
+/* Exibir a lista *\
+System.debug('Ranking das melhores series: ' + Ranking);
