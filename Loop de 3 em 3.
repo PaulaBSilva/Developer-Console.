@@ -1,0 +1,7 @@
+/* Loop para mostrar de 3 em 3 a partir do 33 *\
+FOR(integer valor = 33; valor <= 333; valor+=3){ 
+
+/* Exibir a lista *\
+system.debug(valor); 
+
+} 
