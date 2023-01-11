@@ -1,0 +1,34 @@
+/* Criar a lista com valores do seu interesse *\
+List<String> bd = New List<String>();   
+
+ 
+/* .add (adicionar o valor á lista) *\
+bd.add('Jorge e Mateus');   
+
+bd.add('Henrique e juliano');   
+
+bd.add('Turma do pagode');   
+
+bd.add('Mumuzinho');   
+
+/* Exibir a lista *\
+System.debug('Bandas Favoritas ' + bd);   
+
+ 
+/*.remove(remove um item da lista *\
+bd.remove(2);   
+
+bd.remove(2);   
+
+/* Exibir lista *\
+System.debug('Bandas Favoritas ' + bd);   
+
+/* .add (adicionar o valor á lista) *\
+Bd.add('Mastruz com Leite');   
+
+Bd.add('Titans');   
+
+Bd.add('Capital Inicial');   
+
+/* Exibir lista *\
+System.debug('Bandas Favoritas ' + bd); 
