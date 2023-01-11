@@ -1,0 +1,40 @@
+/* Declarar a variável *\
+Integer Numero = Integer.Valueof((Math.Random() * 50)); 
+
+/* Declarar a lista com 8 índices ja estabelecidos *\
+List<Integer> Idade = New Integer[8];  
+
+Idade[0] = 18;  
+
+Idade[1] = 49;  
+
+/* Declarar um numero aleatório *\
+Idade[2] = Numero;  
+
+Idade[3] = 15;  
+
+Idade[4] = 20;  
+
+Idade[5] = 28;  
+
+Idade[6] = 13;  
+
+Idade[7] = 31;  
+
+/* Exibir a lista *\
+System.debug('As idades são ' + Idade);  
+
+  
+/* Declarar uma nova posição com valor aleatório *\
+Integer Idade5 = Integer.ValueOf((Math.Random() * 50));  
+
+Idade.add(Idade5);  
+
+/* Exibir a lista *\
+System.debug('A idade é ' +  idade5);  
+
+/* .remove(remove um item da lista *\
+Idade.remove(8); 
+
+/* Exibir a lista *\
+System.debug(Idade); 
