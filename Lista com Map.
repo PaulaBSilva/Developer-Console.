@@ -1,0 +1,14 @@
+/* Criar a lista com Map *\
+Map<String, String> Empresa = New Map<String, String>(); 
+
+/*.put(adiciona em ordem de ranking) *\
+Empresa.put('Empresa','Mamaco Corp'); 
+
+Empresa.put('CEO','Romero Brito'); 
+
+Empresa.put('Valor','8000000'); 
+
+Empresa.put('CNPJ','1233210001-99'); 
+
+/* Exibir a lista *\
+System.debug('A empresa ' + Empresa.get('Empresa') + ' alcançou o valor de mercado de R$ ' + Empresa.get('Valor') + '. O CEO ' + Empresa.get('CEO') + ' declarou ser o primeiro passo para dominar o mundo!'); 
