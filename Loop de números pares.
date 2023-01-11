@@ -1,0 +1,18 @@
+/* Declarar a lista *\
+List<Integer> NumPar = New List<Integer>(); 
+
+/* FOR para contar os numeros *\
+For(Integer Contador = 0; Contador <= 20; Contador++){ 
+
+/* Para exibir em números pares *\
+If(Math.Mod(Contador, 2) == 0){ 
+
+/* Adicionar a lista ao contador *\
+NumPar.add(Contador);     
+
+} 
+
+ } 
+
+/* Exibir a lista *\
+System.debug(NumPar); 
