@@ -1,0 +1,26 @@
+/* Declarar a lista *\
+List<String> Alfabeto = New String[6]; 
+
+Alfabeto[0] = 'A'; 
+
+Alfabeto[1] = 'B'; 
+
+Alfabeto[2] = 'C'; 
+
+Alfabeto[3] = 'D'; 
+
+Alfabeto[4] = 'E'; 
+
+Alfabeto[5] = 'F'; 
+
+/* Declarar variáveis com índices da lista *\
+String Faca = Alfabeto[5] + Alfabeto[0] + Alfabeto[2] + Alfabeto[0]; 
+
+String Baba = Alfabeto[1] + Alfabeto[0] + Alfabeto[1] + Alfabeto[0]; 
+
+String Fada = Alfabeto[5] + Alfabeto[0] + Alfabeto[3] + Alfabeto[0]; 
+
+String Acabada = Alfabeto[0] + Alfabeto[2] + Alfabeto[0] + Alfabeto[1] + Alfabeto[0] + Alfabeto[3] + Alfabeto[0]; 
+
+/* Exibir a lista *\
+System.debug(Faca + ', ' + Baba +  ', ' + Fada +  ', ' + Acabada +  '.'); 
