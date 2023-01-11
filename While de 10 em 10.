@@ -1,0 +1,12 @@
+/* Declarar a variável *\
+integer v = 0; 
+
+/* Loop para mostrar de 10 em 10 com while *\
+while(v <= 100){ 
+
+/* Exibir a lista *\
+system.debug(v); 
+
+     v+=10; 
+
+} 
